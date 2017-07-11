@@ -9,7 +9,7 @@
 
 		<h1><strong>Meet Chelsea</strong></h1>
 
-		<p> Hello! My name is Chelsea</p>
+		<p> Hello!! My name is Chelsea</p>
 		<p>I will be turning 28 on Sun!!  I come from the world of flooring and construction. For the last 5 years I was the Operations and Warehouse manager for Interior Soulutions Inc(formerly HD Supply, formerly CTI, formerly Home Depot). We're a lot of formerly's.
 			They do the flooring and interior design for Pulte, DRH, and Abrazo, just to name a few. I was initially brought on as a temp and in just a few short months, was brought on full time tackling a 2 person job</p>
 		<p>I am fork lift certified as well as a beast when it comes to unloading pad trucks. Something I was always quite proud of!</p>
