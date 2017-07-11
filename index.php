@@ -3,6 +3,25 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>About Chelsea</title>
+		<style>
+
+			body {
+				background-color: mediumvioletred;
+			}
+
+			h1{
+				text-align: right;
+				color: cornflowerblue;
+			}
+
+			p {
+				letter-spacing: -.3px;
+				text-align: center;
+				color: antiquewhite;
+			}
+
+
+		</style>
 	</head>
 
 	<body>
